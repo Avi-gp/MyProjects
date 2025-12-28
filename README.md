@@ -1,27 +1,15 @@
-# CODECLAUSE
-CODECLAUSE DATA SCIENCE INTERNSHIP
+Project
 
-# Basic Project
+# Task 1 :- Stock Market Prediction Using KNN ,Linear Regression and SVM 
 
-Task 1 :- Stock Market Prediction Using KNN ,Linear Regression and SVM 
+# Task 2 :- Wine Quality Prediction Using Random Forest Classifier, Logistics Regression and Gaussian Naive Bayes
 
-Task 2 :- Wine Quality Prediction Using Random Forest Classifier, Logistics Regression and Gaussian Naive Bayes
+# Task 3:- Recommendation System For Retail Store : general retail store dataset 
+          x) User Based And Item Based Collaborative Filtering
+          y) Content Based Recommendation
 
-# Golden Project
+#Task 4:-  Book Recommendation System 
 
-# Task 1 :- Personalized Medicine Recommendation System 
-
-# Task 2 :- Recommendation System For Retail Stores :- 
-
-#       Two Projects :-
-
-#       a) Recommendation System For Retail Store : general retail store dataset 
-          
-             x) User Based And Item Based Collaborative Filtering
-             y) Content Based Recommendation
-
-#       b) Book Recommendation System :- 
-
-            x) Popularity Based Book Recommendation 
-            y) Collaborative Filtering 
+          x) Popularity Based Book Recommendation 
+          y) Collaborative Filtering 
               
